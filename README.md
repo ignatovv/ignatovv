@@ -11,6 +11,7 @@ At the moment I am working at [Anytype](https://anytype.io/), where we built and
 
 I’m productivity mad scientist with high empathy, open heart and positive energy. Product mindset, rock solid fundamental CS and mathematics background. I prefer skin-in-the-game type of partnership. Also I really love hugs. My pillars are spirit, openminded/openhearted people, love and gratitude.
 
+P.S. [Vibe check video](https://www.youtube.com/watch?v=wupToqz1e2g)
 
 > [!TIP]
 > All my recent engineering work is [open-sourse](https://github.com/anyproto/anytype-swift)
