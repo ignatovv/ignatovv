@@ -16,4 +16,4 @@ P.S. [Vibe check video](https://www.youtube.com/watch?v=wupToqz1e2g)
 > [!TIP]
 > All my recent engineering work is [open-sourse](https://github.com/anyproto/anytype-swift)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignatovv&show_icons=true&locale=en&theme=transparent" alt="erik-bershel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignatovv&show_icons=true&locale=en&theme=transparent" alt="vova-ignatov" /></p>
