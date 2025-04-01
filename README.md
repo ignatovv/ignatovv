@@ -14,6 +14,6 @@ I’m productivity mad scientist with high empathy, open heart and positive ener
 P.S. [Vibe check video](https://www.youtube.com/watch?v=wupToqz1e2g)
 
 > [!TIP]
-> All my recent engineering work is [open-sourse](https://github.com/anyproto/anytype-swift)
+> All my recent engineering work is [open-source](https://github.com/anyproto/anytype-swift)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignatovv&show_icons=true&locale=en&theme=transparent" alt="vova-ignatov" /></p>
