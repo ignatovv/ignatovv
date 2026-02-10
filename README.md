@@ -1,7 +1,7 @@
 # Hey there! 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignatovv/)
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ignatov__vova)
-[![Private Email](https://img.shields.io/badge/@-email-D14836.svg?&style=for-the-badge&logoColor=white)](mailto:abbadoh@gmail.com)
+[![Private Email](https://img.shields.io/badge/@-email-D14836.svg?&style=for-the-badge&logoColor=white)](mailto:hi@ignatovv.me)
 
 
 I'm a passionate and product oriented iOS software engineer who’s been in the game since 2014. I love to lead and grow engineering teams both technically and managerially. 
